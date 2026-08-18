@@ -20,6 +20,8 @@ The dataset contains demographic and employment-related features such as age, ed
 ## c. GitHub Repository Link
 GitHub Repository Link: https://github.com/Akassh09/ml-streamlit-app.git
 
+## Live Streamlit App Link
+Streamlit App: https://ml-app-app-qqzpwi3uv4eowkprxcsghr.streamlit.app/
 
 ## d. Models used
 The following six classification models were implemented and evaluated on the same dataset:
@@ -67,6 +69,10 @@ Reason: It achieved the highest AUC and the best overall trade-off among Accurac
    ```bash
    streamlit run app.py
    ```
+
+## Screenshot
+
+![Streamlit app screenshot](assets/streamlit_app_screenshot.png)
 
 ## Project files
 - `app.py` — Streamlit dashboard
