@@ -72,7 +72,7 @@ Reason: It achieved the highest AUC and the best overall trade-off among Accurac
 
 ## Screenshot
 
-![Streamlit app screenshot](assets/streamlit_app_screenshot.png)
+![Streamlit app screenshot](assets/screenshot.png)
 
 ## Project files
 - `app.py` — Streamlit dashboard
